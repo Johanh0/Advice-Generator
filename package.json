@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Johanh0/Advice-Generator/issues"
   },
-  "homepage": "https://github.com/Johanh0/Advice-Generator#readme"
+  "homepage": "https://github.com/Johanh0/Advice-Generator#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
 }
